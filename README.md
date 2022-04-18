@@ -1,3 +1,3 @@
 # hello-world
-Starter repository for ideas
-\nTesting repository for GitHub features
+Starter repository for ideas<br>
+Testing repository for GitHub features
